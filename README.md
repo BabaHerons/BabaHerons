@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @BabaHerons
 - 👀 I’m interested in coding and learning data structures and algorithms.
-- 🌱 I’m currently learning Data Science from IIT Madras.
+- 🌱 I’m currently learning Programming and Data Science from IIT Madras.
 - 💞️ I’m looking to collaborate on any beginner project related to Python.
 - 📫 You can reach me through following means.
-      mail: manmay.singh@gmail.com
+      mail: manmay.singh@gmail.com or 21f1001217@student.onlinedegree.iitm.ac.in
 
 
 <!---
